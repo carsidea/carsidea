@@ -5,5 +5,5 @@ window.CARSIDEA_CONFIG = {
   monitorLimit: 5,
   operatorName: 'CARSIDEA運営事務局',
   contactEmail: 'carsidea.project@gmail.com',
-  siteUrl: 'https://takuya-dev-sys.github.io/carsidea/'
+  siteUrl: 'https://carsidea.github.io/carsidea/'
 };
